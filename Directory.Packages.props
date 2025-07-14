@@ -1,0 +1,20 @@
+<Project>
+
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="AutoFixture" Version="4.18.1" />    
+    <PackageVersion Include="coverlet.collector" Version="6.0.4" />
+    <PackageVersion Include="BenchmarkDotNet" Version="0.15.2" />
+    <PackageVersion Include="System.IO.Abstractions" Version="22.0.15" />
+    <PackageVersion Include="System.IO.Abstractions.TestingHelpers" Version="22.0.15" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageVersion Include="Moq" Version="4.20.72" />
+    <PackageVersion Include="Shouldly" Version="4.2.1" />
+    <PackageVersion Include="xunit" Version="2.9.3" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.2" />
+  </ItemGroup>
+
+</Project>

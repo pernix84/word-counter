@@ -1,0 +1,19 @@
+The quick brown fox jumps over the lazy dog This is a simple test file with normal lines
+Each line contains a reasonable number of words that any text processing system should handle easily
+
+Testing various scenarios:
+Multiple words on single lines
+Empty lines between paragraphs
+Different punctuation marks: commas periods semicolons and dashes
+
+The quick brown fox appears again to test duplicate word counting
+Some lines are shorter
+Some lines are much longer with many more words to process and count accurately in the system
+
+Special cases: words and hyphenated-words should be handled correctly
+Numbers like 123 and 456 might appear in the text
+    Indented lines with leading spaces
+		Lines with tabs and mixed whitespace
+
+Repeated words: the the the quick quick quick brown brown brown
+End of file approaching with common words: and the in of to a is are were was
